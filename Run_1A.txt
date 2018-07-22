@@ -1,0 +1,143 @@
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: Sw.Q2$sU8wxR
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: JK12#as&jaEDsjv3
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: aj4fLYFJ3*sjJL@9al
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: hfhj@34ASF%saD
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: UH%82M2^jsD.1
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: D%sd#$S562sfjl#
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: sdJD@5D3Jfl3*ls
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: H2Jfl(a7dh@sjfLU32
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: HF!73k$jf7lsjLJF31
+
+Braden Harrelson Bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: 2!slTcS3&sh3JjU9
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: braden22
+Password is too short.
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: harrelson.123
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: bradentharrelson.123#
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password must not use your email.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: iLiKeBacon.22
+Your password must not contain a 5+ letter word from the dictionary.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: cat
+Password is too short.
+Your password doesn't have enough uppercase letters.
+Your password doesn't have enough digits.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: Slw@1sjL#acMQ
+Your password doesn't have enough digits.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: vHF256K!suUslQ
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: AHCYAJ123.AJ4$
+Your password doesn't have enough lowercase letters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: acjdj245scha5w3
+Your password doesn't have enough uppercase letters.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: THISpasswordShould!FAIL!
+Your password must not contain a 5+ letter word from the dictionary.
+Your password doesn't have enough digits.
+

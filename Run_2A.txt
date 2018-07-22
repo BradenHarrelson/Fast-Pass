@@ -1,0 +1,145 @@
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: G2lk!PodDG#alc42.Ys9
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: a2!jsJD4hv5lsa@%jsDSj
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: 1JDJ598v^48(&fjHDkf
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: J12$fjHF!24gg*sljFl2
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: fHf^F12ocvf83F*88$f
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: f@47.9shvjJFff$LF379
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: *f3LgHs6J0fjei#sjLK+
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: 3Ht^Jki8IFjg_j13jg.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: Thf2u^h(JF3#1jvk1&s
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+ACCEPTED: 6SWer$uyI*3DFfc4%s
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: TestRanette.123
+Password is too short.
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password doesn't have enough special characters.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: Ranette.halverson.123
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password must not use your email.
+Your password doesn't have enough special characters.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: Halverson@34$5*CAP
+Your password must not use your name.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: TestPassG1#3^*cnbm
+Your password doesn't have enough digits.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: TestRanetteP123$%^
+Your password must not use your name.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: ranette.Halverson123
+Your password doesn't have enough uppercase letters.
+Your password must not use your name.
+Your password must not use your email.
+Your password doesn't have enough special characters.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: VeRy.Secure.123
+Password is too short.
+Your password must not contain a 5+ letter word from the dictionary.
+Your password doesn't have enough special characters.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: ranettes.secret.pass123
+Your password doesn't have enough uppercase letters.
+Your password must not contain a 5+ letter word from the dictionary.
+Your password must not use your name.
+Your password doesn't have enough special characters.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: DSh&do*i2od8c!acrT
+Your password doesn't have enough digits.
+
+Ranette Halverson Ranette.halverson@mwsu.edu:
+length: 16, upper: 3, lower: 3, dictionary: True
+name: True, email: True, digits: 3, special chars: 3
+---------------------------------------------------------------------
+Rejected: Braden_Should_Get_An_A!
+Your password must not contain a 5+ letter word from the dictionary.
+Your password doesn't have enough digits.
+

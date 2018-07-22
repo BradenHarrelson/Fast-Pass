@@ -1,0 +1,35 @@
+Ricky Poo ash@go.com:
+length: 3, upper: 1, lower: 1, dictionary: True
+name: False, email: True, digits: 1, special chars: 1
+---------------------------------------------------------------------
+ACCEPTED: TRslkd2234.1
+
+Ricky Poo ash@go.com:
+length: 3, upper: 1, lower: 1, dictionary: True
+name: False, email: True, digits: 1, special chars: 1
+---------------------------------------------------------------------
+Rejected: Baconpoop
+Your password must not contain a 5+ letter word from the dictionary.
+Your password doesn't have enough digits.
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+ACCEPTED: ThisIsATest.123!
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: ThisIsATest123
+Your password doesn't have enough special characters.
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Rejected: ThisIsATest123
+Your password doesn't have enough special characters.
+

@@ -1,0 +1,24 @@
+Ricky poo ash@gmail.com:
+length: 3, upper: 1, lower: 1, dictionary: True
+name: False, email: True, digits: 1, special chars: 1
+---------------------------------------------------------------------
+Generated Pass: y9D&
+
+Ricky poo ash@gmail.com:
+length: 3, upper: 1, lower: 1, dictionary: True
+name: False, email: True, digits: 1, special chars: 1
+---------------------------------------------------------------------
+Generated Pass: a8L:
+
+Ricky poo ash@gmail.com:
+length: 3, upper: 1, lower: 1, dictionary: True
+name: False, email: True, digits: 1, special chars: 1
+---------------------------------------------------------------------
+Generated Pass: A#7e
+
+Braden Harrelson bradentharrelson@gmail.com:
+length: 12, upper: 2, lower: 2, dictionary: True
+name: True, email: True, digits: 2, special chars: 2
+---------------------------------------------------------------------
+Generated Pass: (cdz5"Zpc0mX
+
